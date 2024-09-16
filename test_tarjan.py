@@ -1,5 +1,5 @@
 import sys
-from graphs_HDoubleH import tarjan  # Import Tarjan's Algorithm
+from graphs_HDoubleH2 import tarjan  # Import Tarjan's Algorithm
 
 if __name__ == '__main__':
     
