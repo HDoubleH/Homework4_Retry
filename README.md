@@ -48,7 +48,7 @@ if __name__ == '__main__':
 To run this enter the following in the terminal
 
 ```
-python src/filename graph.txt
+python filename graph.txt
 
 ```
 **Tarjan's Algorithm for Strongly Connected Components**- 
@@ -94,9 +94,13 @@ To run this enter the following in the terminal
 
 ```
 
-python src/tarjan_filename.py graph.txt
+python tarjan_filename.py graph.txt
 
 ```
 
 ### Installation 
-Package can be installed with - pip3 install graphs_HDoubleH2
+Package can be installed with:
+```
+pip3 install graphs_HDoubleH2
+
+```
