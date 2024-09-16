@@ -14,7 +14,7 @@ Graphs are data structures which connect nodes identified by labels.
 Create a file with the following named filename.py
 ````
 ```
-from graphs_HDoubleH import sp
+from graphs_HDoubleH2 import sp
 import sys
 
 if __name__ == '__main__':
@@ -59,7 +59,7 @@ Create a file with the following named tarjan_filename.py
 ```
 
 import sys
-from graphs_HDoubleH import tarjan  # Import Tarjan's Algorithm
+from graphs_HDoubleH2 import tarjan  # Import Tarjan's Algorithm
 
 if __name__ == '__main__':
     
